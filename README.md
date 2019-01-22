@@ -1,2 +1,2 @@
-# todo-react-redux
-Build Todo list using React-Redux
+# Build Todo List Using React-Redux
+
